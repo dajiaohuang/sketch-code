@@ -1,0 +1,19 @@
+SketchCode
+Copyright (c) 2018 Ashwin Kumar
+
+This product includes material derived from pix2code
+(https://github.com/tonybeltramelli/pix2code), Copyright (c) 2017
+Tony Beltramelli, which is licensed under the Apache License, Version 2.0.
+
+A copy of the Apache License, Version 2.0 is available at:
+    http://www.apache.org/licenses/LICENSE-2.0
+
+The portions derived from pix2code are the synthetically generated training
+dataset and the domain-specific language used to describe GUI layouts, along
+with the general encoder-decoder model architecture those imply. Those
+portions remain subject to the Apache License, Version 2.0, including its
+attribution requirements. The remainder of this project is offered under the
+MIT License; see the LICENSE file.
+
+This project also draws on the Design Mockups project
+(https://github.com/emilwallner/Screenshot-to-code) by Emil Wallner.

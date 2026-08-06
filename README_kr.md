@@ -6,11 +6,11 @@
 
 ![Preview](https://github.com/vbnm134678/sketch-code/blob/documentation-korean-translation/image/header_image.png)
 
-SketchCode는 손으로 그린 웹 모형을 작동하는 HTML 코드로 변환하는 딥 러닝 모델입니다. [이미지 캡션](https://towardsdatascience.com/image-captioning-in-deep-learning-9cd23fb4d8d2) 아키텍처를 사용하여 손으로 그린 웹 사이트 와이어 프레임에서 HTML 마크업을 생성합니다.
+SketchCode는 손으로 그린 웹 모형을 작동하는 HTML 코드로 변환하는 딥 러닝 모델입니다. 이미지 캡션 아키텍처를 사용하여 손으로 그린 웹 사이트 와이어 프레임에서 HTML 마크업을 생성합니다.
 
-자세한 내용은 다음 게시물을 참조하십시오. : [딥 러닝을 통한 프런트 엔드 개발 자동화](https://blog.insightdatascience.com/automated-front-end-development-using-deep-learning-3169dd086e82)
+자세한 내용은 다음 게시물을 참조하십시오. : [딥 러닝을 통한 프런트 엔드 개발 자동화](https://medium.com/insight-data/automated-front-end-development-using-deep-learning-3169dd086e82)
 
-이 프로젝트는 [Tony Beltramelli](https://github.com/tonybeltramelli)의 [pix2code](https://github.com/tonybeltramelli/pix2code)와 [Emil Wallner](https://github.com/emilwallner)의 [Design Mockups](https://github.com/emilwallner/Screenshot-to-code-in-Keras) 프로젝트에서 합성적으로 생성된 데이터 세트와 모델 아키텍처를 기반으로 합니다.
+이 프로젝트는 [Tony Beltramelli](https://github.com/tonybeltramelli)의 [pix2code](https://github.com/tonybeltramelli/pix2code)와 [Emil Wallner](https://github.com/emilwallner)의 [Design Mockups](https://github.com/emilwallner/Screenshot-to-code) 프로젝트에서 합성적으로 생성된 데이터 세트와 모델 아키텍처를 기반으로 합니다.
 
 <b>참고:</b> 이 프로젝트는 개념 증명을 위한 것입니다; 이 모델은 실제 와이어 프레임에서 볼 수 있는 스케치의 가변성에 맞게 만들어지지 않았기 때문에 성능은 코어 데이터 세트와 유사한 와이어 프레임에 의존합니다.
 
@@ -113,7 +113,7 @@ python evaluate_batch_guis.py --original_guis_filepath  {path/to/folder/with/ori
 
 ### The MIT License (MIT)
 
-Copyright (c) 2018 Ashwin Kumar<ash.nkumar@gmail.com@gmail.com>
+Copyright (c) 2018 Ashwin Kumar <ash.nkumar@gmail.com>
 
 > Permission is hereby granted, free of charge, to any person obtaining a copy
 > of this software and associated documentation files (the "Software"), to deal
